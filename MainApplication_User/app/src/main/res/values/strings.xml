@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MainApplication_User</string>
+
+    <string-array name="list_old">
+        <item>1900</item>
+        <item>1920</item>
+        <item>1940</item>
+        <item>1960</item>
+        <item>1980</item>
+        <item>2000</item>
+    </string-array>
+
+
+
+    <string-array name="list_country">
+        <item>USA</item>
+        <item>JAPAN</item>
+        <item>CHINA</item>
+        <item>KOREA</item>
+    </string-array>
+
 </resources>
